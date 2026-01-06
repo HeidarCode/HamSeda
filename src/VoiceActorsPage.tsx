@@ -61,7 +61,7 @@ const VoiceActorsPage: React.FC = () => {
        role: "گوینده کتاب صوتی و پادکست",
       image:
         photo2,
-      sample: "/samples/sahar.mp3",
+      sample:  voice2,
     },
 
      {
@@ -69,7 +69,7 @@ const VoiceActorsPage: React.FC = () => {
        role: "گوینده کتاب صوتی و پادکست",
       image:
         photo3,
-      sample: "/samples/sahar.mp3",
+      sample: voice2,
     },
 
      {
@@ -77,7 +77,7 @@ const VoiceActorsPage: React.FC = () => {
       role: "گوینده کتاب صوتی و پادکست",
       image:
         photo4,
-      sample: "/samples/sahar.mp3",
+      sample: voice1,
     },
 
      {
@@ -85,7 +85,7 @@ const VoiceActorsPage: React.FC = () => {
        role: "گوینده کتاب صوتی و پادکست",
       image:
         photo5,
-      sample: "/samples/sahar.mp3",
+      sample: voice1,
     },
   
   ];
